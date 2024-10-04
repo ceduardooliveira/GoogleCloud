@@ -34,6 +34,8 @@ Aqui estão os nomes dos laboratórios e os links:
   
   
 - 📊 **[Custom Metrics with Google Cloud Monitoring](https://www.cloudskillsboost.google/)**  
+
+
+- 📊 **[Labs de Alerta - Vários Labs.](https://www.cloudskillsboost.google/catalog?keywords=alert&locale=&skill-badge%5B%5D=any&format%5B%5D=any&language%5B%5D=any)**
   
 
-Esses títulos devem ajudá-lo a encontrar os laboratórios rapidamente no **Google Cloud Skills Boost**.
