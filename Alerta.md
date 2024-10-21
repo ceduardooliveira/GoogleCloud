@@ -2,10 +2,6 @@
 
 - Criação por Log
 
-Vou colocar dois metodos de fazer esse alerta.
-
-
-
 ## Criação por log a seguir:
 
 - 1 - Acessar logs explorer na barra de pesquisa do gcp.
